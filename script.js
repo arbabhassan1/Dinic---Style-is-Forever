@@ -1,3 +1,9 @@
+
+               //            Arbab Hassan
+               // Department of Information Technology
+               //       University of Gujrat
+               //      21011556-184@uog.edu.pk
+
 const bar=document.getElementById('bar');
 const nav=document.getElementById("navbar")
 const close=document.getElementById("close")
